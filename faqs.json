@@ -89,5 +89,17 @@
       ],
       "updated_at": "2026-01-15"
     }
+    {
+      "id": "check-mdns-enabled-network",
+      "question": "How do I check if mDNS is enabled on my network?",
+      "answer": "To check whether mDNS is enabled on your network, please follow the steps outlined in our support article below:\n\nhttps://support.neat.no/article/checking-if-mdns-is-enabled-on-your-network/",
+      "tags": [
+        "mDNS",
+        "networking",
+        "discovery",
+        "troubleshooting"
+      ],
+      "updated_at": "2026-01-15"
+    }
   ]
 }
