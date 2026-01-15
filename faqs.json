@@ -1,0 +1,13 @@
+{
+  "id": "neat-hdmi-output-supported-resolutions",
+  "question": "What screen resolutions and aspect ratios do Neat devices support on HDMI output?",
+  "answer": "HDMI Output\n\nAspect ratio 21:9 resolutions (Gen 2 devices only):\n\n3840x1600 @ 60Hz\n3440x1440 @ 60Hz (CVT-RB, old)\n3440x1440 @ 60Hz (CVT, new)\n2560x1080 @ 60Hz\n\nAspect ratio 16:9 resolutions:\n\n3840x2160 @ 60Hz\n3840x2160 @ 30Hz\n1920x1080 @ 60Hz\n\nFor any resolution outside of these tested values, customers and partners should work with the TV or screen manufacturer to ensure a supported configuration.",
+  "tags": [
+    "HDMI",
+    "display",
+    "resolution",
+    "aspect ratio",
+    "Gen 2 devices"
+  ],
+  "updated_at": "2026-01-15"
+}
