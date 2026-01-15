@@ -1,7 +1,122 @@
 <!doctype html>
-<html>
-  <head><meta charset="utf-8"><title>Neat FAQ</title></head>
-  <body>
-    <h1>Neat FAQs</h1>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Neat Device FAQs</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+
+<body>
+  <header>
+    <div class="header-inner">
+      <h1 id="title">Neat Device FAQs</h1>
+      <p>
+        Search and browse Neat device FAQs. Data source:
+        <a id="jsonLink" href="./faqs.json">faqs.json</a>
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="search-container">
+      <input id="search" type="search" placeholder="Search by keyword, device, tag..." autocomplete="off" />
+    </section>
+
+    <section id="list" aria-live="polite">
+      <div class="empty">Loading FAQs...</div>
+    </section>
+
+    <footer>
+      <div>
+        Updated: <span id="updated">-</span>
+      </div>
+      <div style="margin-top: 8px;">
+        Scrape endpoint: <a href="./faqs.json">./faqs.json</a>
+      </div>
+    </footer>
+  </main>
+
+  <script>
+    const listEl = document.getElementById("list");
+    const searchEl = document.getElementById("search");
+    const titleEl = document.getElementById("title");
+    const updatedEl = document.getElementById("updated");
+
+    let allFaqs = [];
+
+    function escapeHtml(s) {
+      return String(s)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function matchesQuery(faq, q) {
+      if (!q) return true;
+      const hay = [
+        faq.id,
+        faq.question,
+        faq.answer,
+        ...(faq.tags || [])
+      ].join(" ").toLowerCase();
+      return hay.includes(q);
+    }
+
+    function render(items) {
+      if (!items.length) {
+        listEl.innerHTML = `<div class="empty">No matches.</div>`;
+        return;
+      }
+
+      listEl.innerHTML = items.map(f => {
+        const tags = (f.tags || [])
+          .map(t => `<span class="tag">${escapeHtml(t)}</span>`)
+          .join("");
+
+        return `
+          <article class="faq" data-id="${escapeHtml(f.id || "")}">
+            <div class="question">${escapeHtml(f.question || "")}</div>
+            <div class="answer">${escapeHtml(f.answer || "")}</div>
+            ${tags ? `<div class="tags">${tags}</div>` : ""}
+          </article>
+        `;
+      }).join("");
+    }
+
+    async function loadFaqs() {
+      const res = await fetch("./faqs.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("Failed to load faqs.json");
+      return res.json();
+    }
+
+    function applySearch() {
+      const q = searchEl.value.trim().toLowerCase();
+      const filtered = allFaqs.filter(f => matchesQuery(f, q));
+      render(filtered);
+    }
+
+    async function main() {
+      try {
+        const data = await loadFaqs();
+
+        titleEl.textContent = data?.meta?.title || "Neat Device FAQs";
+        updatedEl.textContent = data?.meta?.updated_at || "-";
+
+        allFaqs = Array.isArray(data?.faqs) ? data.faqs : [];
+
+        render(allFaqs);
+
+        searchEl.addEventListener("input", applySearch);
+      } catch (e) {
+        console.error(e);
+        listEl.innerHTML = `<div class="empty">Could not load FAQs. Check that <code>faqs.json</code> exists in the repo root.</div>`;
+      }
+    }
+
+    main();
+  </script>
+</body>
 </html>
