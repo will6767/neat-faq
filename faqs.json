@@ -1,13 +1,93 @@
 {
-  "id": "neat-hdmi-output-supported-resolutions",
-  "question": "What screen resolutions and aspect ratios do Neat devices support on HDMI output?",
-  "answer": "HDMI Output\n\nAspect ratio 21:9 resolutions (Gen 2 devices only):\n\n3840x1600 @ 60Hz\n3440x1440 @ 60Hz (CVT-RB, old)\n3440x1440 @ 60Hz (CVT, new)\n2560x1080 @ 60Hz\n\nAspect ratio 16:9 resolutions:\n\n3840x2160 @ 60Hz\n3840x2160 @ 30Hz\n1920x1080 @ 60Hz\n\nFor any resolution outside of these tested values, customers and partners should work with the TV or screen manufacturer to ensure a supported configuration.",
-  "tags": [
-    "HDMI",
-    "display",
-    "resolution",
-    "aspect ratio",
-    "Gen 2 devices"
-  ],
-  "updated_at": "2026-01-15"
+  "meta": {
+    "title": "Neat Device FAQs",
+    "updated_at": "2026-01-15"
+  },
+  "faqs": [
+    {
+      "id": "neat-hdmi-output-supported-resolutions",
+      "question": "What screen resolutions and aspect ratios do Neat devices support on HDMI output?",
+      "answer": "HDMI Output\n\nAspect ratio 21:9 resolutions (Gen 2 devices only):\n\n3840x1600 @ 60Hz\n3440x1440 @ 60Hz (CVT-RB, old)\n3440x1440 @ 60Hz (CVT, new)\n2560x1080 @ 60Hz\n\nAspect ratio 16:9 resolutions:\n\n3840x2160 @ 60Hz\n3840x2160 @ 30Hz\n1920x1080 @ 60Hz\n\nFor any resolution outside of these tested values, customers and partners should work with the TV or screen manufacturer to ensure a supported configuration.",
+      "tags": [
+        "HDMI",
+        "display",
+        "resolution",
+        "aspect ratio",
+        "Gen 2 devices"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "microsoft-devices-reboot-frequency",
+      "question": "How often should Microsoft Teams devices be rebooted?",
+      "answer": "Microsoft recommends performing daily reboots on Microsoft Teams devices, ideally during a nightly maintenance window. Regular reboots help ensure system stability, performance, and timely application of updates.\n\nFor more details, see the official guidance here:\nhttps://support.neat.no/article/microsoft-teams-devices-maintenance-window-and-daily-reboots/",
+      "tags": [
+        "Microsoft Teams",
+        "reboot",
+        "maintenance",
+        "best practices"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-byod-without-pad",
+      "question": "Is it possible to add Neat Center speakers to a Neat Bar in BYOD mode without using a Neat Pad?",
+      "answer": "No. A Neat Pad is required in order to pair Neat Center speakers to a Neat Bar or other main Neat device. There is currently no supported way to add Neat Center speakers in a BYOD-only setup without a Neat Pad.",
+      "tags": [
+        "Neat Center",
+        "Neat Bar",
+        "BYOD",
+        "Neat Pad"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-three-screens-teams",
+      "question": "Does Microsoft Teams support three screens on Neat Bar Pro, or is this only available on Zoom?",
+      "answer": "Three-screen support on Neat Bar Pro is available only when using Zoom. Microsoft Teams does not currently support three displays. As a result, HDMI output 1 is mirrored to HDMI output 3.",
+      "tags": [
+        "Neat Bar Pro",
+        "Microsoft Teams",
+        "Zoom",
+        "displays"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "third-party-speakers-byod-bar-pro",
+      "question": "Is there a workaround to use third party speakers with Neat Bar Pro while also using BYOD in the same room?",
+      "answer": "No. At this time, there is no supported workaround that allows the use of third party speakers with Neat Bar Pro while also using BYOD mode in the same room.",
+      "tags": [
+        "Neat Bar Pro",
+        "BYOD",
+        "audio",
+        "third party speakers"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-frame-captive-portal-wifi",
+      "question": "Can Neat Frame work on a Wi-Fi network that uses a captive portal?",
+      "answer": "Neat Frame does not officially support captive portal Wi-Fi networks. However, it may still work in some cases. To test this, connect Neat Frame to the network and click the small pop-up notification that appears after connection. This may open the captive portal webpage, allowing you to approve access.\n\nBecause results can be inconsistent, captive portal networks are not officially supported, even though this approach has worked in most cases.",
+      "tags": [
+        "Neat Frame",
+        "Wi-Fi",
+        "captive portal",
+        "networking"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "cad-dwg-files-neat-devices",
+      "question": "Where can I find CAD or DWG files for Neat devices for architectural or engineering drawings?",
+      "answer": "If you are a Neat partner, CAD and DWG files for Neat devices and accessories are available through the Neat Partner Portal.\n\nIf you are not a partner, please contact your reseller to request these files.\n\nPartner Portal:\nhttps://partners.neat.no/",
+      "tags": [
+        "CAD",
+        "DWG",
+        "architectural drawings",
+        "partners"
+      ],
+      "updated_at": "2026-01-15"
+    }
+  ]
 }
