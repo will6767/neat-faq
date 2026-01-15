@@ -88,7 +88,7 @@
         "partners"
       ],
       "updated_at": "2026-01-15"
-    }
+    },
     {
       "id": "check-mdns-enabled-network",
       "question": "How do I check if mDNS is enabled on my network?",
@@ -100,6 +100,988 @@
         "troubleshooting"
       ],
       "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-neat-center-support",
+      "question": "Does Neat Bar Pro support Neat Center expansion speakers?",
+      "answer": "Yes. Neat Bar Pro supports Neat Center expansion speakers, which can be added to extend audio coverage in larger meeting rooms when used with a supported configuration.",
+      "tags": [
+        "Neat Bar Pro",
+        "Neat Center",
+        "audio",
+        "accessories"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-dimensions-weight",
+      "question": "What are the dimensions and weight of Neat Bar Pro?",
+      "answer": "Neat Bar Pro has the following dimensions and weight:\n\nDimensions (imperial): 3.15 × 3.15 × 35.04 inches\nDimensions (metric): 80 × 80 × 890 mm\nWeight: 6.83 pounds (3.1 kg)",
+      "tags": [
+        "Neat Bar Pro",
+        "dimensions",
+        "weight",
+        "installation"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-speaker-system",
+      "question": "What type of speaker system does Neat Bar Pro use?",
+      "answer": "Neat Bar Pro features a three channel directional speaker system that includes dual opposite firing drivers and dual bass reflex woofers. This design provides balanced audio coverage and improved low frequency response for medium to large meeting spaces.",
+      "tags": [
+        "Neat Bar Pro",
+        "audio",
+        "speakers"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-microphone-array",
+      "question": "How many microphones does Neat Bar Pro have?",
+      "answer": "Neat Bar Pro includes a 16 microphone array, including four tracking and sensor microphones. This enables accurate voice pickup and spatial awareness in the room.",
+      "tags": [
+        "Neat Bar Pro",
+        "microphones",
+        "audio"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-audio-intelligence-features",
+      "question": "What audio intelligence features are supported on Neat Bar Pro?",
+      "answer": "Neat Bar Pro supports advanced audio processing features including 3D beamforming and voice tracking. These features help focus on active speakers while reducing background noise.",
+      "tags": [
+        "Neat Bar Pro",
+        "audio",
+        "beamforming",
+        "voice tracking"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-camera-specifications",
+      "question": "What camera specifications does Neat Bar Pro have?",
+      "answer": "Neat Bar Pro uses a dual camera system with two 50 megapixel sensors. The field of view ranges from 70 degrees to 113 degrees, allowing flexible coverage across different room sizes and seating layouts.",
+      "tags": [
+        "Neat Bar Pro",
+        "camera",
+        "video"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-video-framing-modes",
+      "question": "What video framing features are available on Neat Bar Pro?",
+      "answer": "Neat Bar Pro supports intelligent framing modes including adaptive group framing, dynamic individual framing, and dynamic speaker focus. These modes automatically adjust the view to keep participants framed clearly during meetings.",
+      "tags": [
+        "Neat Bar Pro",
+        "video",
+        "framing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-screen-sharing",
+      "question": "How does screen sharing work on Neat Bar Pro?",
+      "answer": "Screen sharing on Neat Bar Pro is supported via HDMI input only. USB-C screen sharing is not supported.",
+      "tags": [
+        "Neat Bar Pro",
+        "screen sharing",
+        "HDMI"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-pro-byod-requirements",
+      "question": "What is required to use BYOD mode on Neat Bar Pro?",
+      "answer": "To use BYOD mode on Neat Bar Pro, two cables are required. An HDMI cable is used for video, and a USB-C cable is used for audio and camera connectivity. Both connections are required for full BYOD functionality.",
+      "tags": [
+        "Neat Bar Pro",
+        "BYOD",
+        "connectivity"
+      ],
+      "updated_at": "2026-01-15"
+    },
+
+    {
+      "id": "neat-bar-gen2-display-support",
+      "question": "What display and screen support options are available on Neat Bar Generation 2?",
+      "answer": "Neat Bar Generation 2 supports dual screen output at up to 4K resolution. Dual screen support is available for Google Meet, Microsoft Teams, and Zoom. In BYOD-only mode, Neat Bar Generation 2 supports a single screen.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "displays",
+        "4K"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-screen-modes-overview",
+      "question": "Does Neat Bar Generation 2 support single, dual, or triple screen configurations?",
+      "answer": "Neat Bar Generation 2 supports single and dual screen configurations. Dual screen support is available when using Google Meet, Microsoft Teams, or Zoom. Triple screen configurations are not supported on Neat Bar Generation 2. In BYOD-only mode, the device supports a single screen only.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "displays",
+        "screen configuration",
+        "BYOD"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-platform-generation",
+      "question": "What platform generation does Neat Bar Generation 2 use?",
+      "answer": "Neat Bar Generation 2 is built on the Generation 2 platform, providing improved performance and support for advanced audio and video features.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "platform"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-camera-specifications",
+      "question": "What camera specifications does Neat Bar Generation 2 have?",
+      "answer": "Neat Bar Generation 2 features a single 50 megapixel camera sensor with a 113 degree field of view. This enables flexible coverage across a range of room sizes.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "camera",
+        "video"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-video-framing-modes",
+      "question": "What video framing features are available on Neat Bar Generation 2?",
+      "answer": "Neat Bar Generation 2 supports intelligent video framing modes including adaptive group framing, dynamic individual framing, and dynamic speaker focus to keep participants clearly framed during meetings.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "video",
+        "framing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-microphone-array",
+      "question": "How many microphones does Neat Bar Generation 2 have?",
+      "answer": "Neat Bar Generation 2 includes a five microphone array with four tracking and sensor microphones. This enables accurate voice pickup and speaker tracking.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "microphones",
+        "audio"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-audio-intelligence-features",
+      "question": "What audio intelligence features are supported on Neat Bar Generation 2?",
+      "answer": "Neat Bar Generation 2 supports beamforming and voice tracking to help focus on active speakers while reducing background noise.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "audio",
+        "beamforming",
+        "voice tracking"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-speaker-system",
+      "question": "What type of speaker system does Neat Bar Generation 2 use?",
+      "answer": "Neat Bar Generation 2 features a mono speaker system with dual opposite firing drivers and dual passive radiators, providing clear and balanced audio for small to medium meeting spaces.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "audio",
+        "speakers"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-byod-requirements",
+      "question": "What is required to use BYOD mode on Neat Bar Generation 2?",
+      "answer": "To use BYOD mode on Neat Bar Generation 2, a single USB-C cable is required. This cable provides audio, video, and camera connectivity for bring your own device use cases.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "BYOD",
+        "connectivity"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-screen-sharing",
+      "question": "How does screen sharing work on Neat Bar Generation 2?",
+      "answer": "Screen sharing on Neat Bar Generation 2 is supported via HDMI or USB-C, depending on the selected mode and configuration.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "screen sharing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-dimensions-weight",
+      "question": "What are the dimensions and weight of Neat Bar Generation 2?",
+      "answer": "Neat Bar Generation 2 has the following dimensions and weight:\n\nDimensions (imperial): 2.76 × 2.76 × 25.59 inches\nDimensions (metric): 70 × 70 × 650 mm\nWeight: 3.75 pounds (1.7 kg)",
+      "tags": [
+        "Neat Bar Gen 2",
+        "dimensions",
+        "weight",
+        "installation"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-gen2-neat-center-support",
+      "question": "Does Neat Bar Generation 2 support Neat Center expansion speakers?",
+      "answer": "Yes. Neat Bar Generation 2 supports Neat Center expansion speakers. A Neat Pad is required to pair Neat Center speakers to the main device.",
+      "tags": [
+        "Neat Bar Gen 2",
+        "Neat Center",
+        "audio",
+        "accessories"
+      ],
+      "updated_at": "2026-01-15"
+    },
+
+    {
+      "id": "neat-bar-byod-display-support",
+      "question": "What display and screen support options are available on Neat Bar (BYOD)?",
+      "answer": "Neat Bar (BYOD) supports single screen output at up to 4K resolution. Dual or triple screen configurations are not supported on Neat Bar (BYOD).",
+      "tags": [
+        "Neat Bar BYOD",
+        "displays",
+        "4K"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-screen-modes-overview",
+      "question": "Does Neat Bar (BYOD) support single, dual, or triple screen configurations?",
+      "answer": "Neat Bar (BYOD) supports single screen configurations only. Dual and triple screen configurations are not supported.",
+      "tags": [
+        "Neat Bar BYOD",
+        "displays",
+        "screen configuration",
+        "BYOD"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-platform-generation",
+      "question": "What platform generation does Neat Bar (BYOD) use?",
+      "answer": "Neat Bar (BYOD) is built on the Generation 1 platform.",
+      "tags": [
+        "Neat Bar BYOD",
+        "platform"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-camera-specifications",
+      "question": "What camera specifications does Neat Bar (BYOD) have?",
+      "answer": "Neat Bar (BYOD) features a single 12 megapixel camera sensor with a 120 degree field of view, providing wide angle coverage for small to medium meeting spaces.",
+      "tags": [
+        "Neat Bar BYOD",
+        "camera",
+        "video"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-video-framing-modes",
+      "question": "What video framing features are available on Neat Bar (BYOD)?",
+      "answer": "Neat Bar (BYOD) supports adaptive group framing and dynamic individual framing to help keep participants clearly visible during meetings.",
+      "tags": [
+        "Neat Bar BYOD",
+        "video",
+        "framing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-microphone-array",
+      "question": "How many microphones does Neat Bar (BYOD) have?",
+      "answer": "Neat Bar (BYOD) includes a five microphone array with three sensor microphones, enabling beamforming based audio pickup.",
+      "tags": [
+        "Neat Bar BYOD",
+        "microphones",
+        "audio"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-audio-intelligence-features",
+      "question": "What audio intelligence features are supported on Neat Bar (BYOD)?",
+      "answer": "Neat Bar (BYOD) supports beamforming audio technology to focus on active speakers during meetings.",
+      "tags": [
+        "Neat Bar BYOD",
+        "audio",
+        "beamforming"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-speaker-system",
+      "question": "What type of speaker system does Neat Bar (BYOD) use?",
+      "answer": "Neat Bar (BYOD) features a mono speaker system with dual opposite firing drivers, providing clear audio output for small meeting spaces.",
+      "tags": [
+        "Neat Bar BYOD",
+        "audio",
+        "speakers"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-byod-requirements",
+      "question": "What is required to use BYOD mode on Neat Bar (BYOD)?",
+      "answer": "To use BYOD mode on Neat Bar (BYOD), two cables are required. An HDMI cable is used for video output, and a USB-C cable is used for audio and camera connectivity.",
+      "tags": [
+        "Neat Bar BYOD",
+        "BYOD",
+        "connectivity"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-screen-sharing",
+      "question": "How does screen sharing work on Neat Bar (BYOD)?",
+      "answer": "Screen sharing on Neat Bar (BYOD) is supported via HDMI input.",
+      "tags": [
+        "Neat Bar BYOD",
+        "screen sharing",
+        "HDMI"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-dimensions-weight",
+      "question": "What are the dimensions and weight of Neat Bar (BYOD)?",
+      "answer": "Neat Bar (BYOD) has the following dimensions and weight:\n\nDimensions (imperial): 3 × 3 × 21.9 inches\nDimensions (metric): 76 × 76 × 556 mm\nWeight: 3.75 pounds (1.7 kg)",
+      "tags": [
+        "Neat Bar BYOD",
+        "dimensions",
+        "weight",
+        "installation"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-bar-byod-neat-center-support",
+      "question": "Does Neat Bar (BYOD) support Neat Center expansion speakers?",
+      "answer": "Yes. Neat Bar (BYOD) supports Neat Center expansion speakers. A Neat Pad is required to pair Neat Center speakers to the main device.",
+      "tags": [
+        "Neat Bar BYOD",
+        "Neat Center",
+        "audio",
+        "accessories"
+      ],
+      "updated_at": "2026-01-15"
+    },
+
+    {
+      "id": "neat-board-50-room-size-and-reach",
+      "question": "What room sizes and collaboration reach is Neat Board 50 designed for?",
+      "answer": "Neat Board 50 is designed for small and medium meeting spaces. It supports effective collaboration with a recommended reach of up to 16 feet or 5 meters.",
+      "tags": [
+        "Neat Board 50"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-50-display-and-touch",
+      "question": "What display and touch capabilities does Neat Board 50 provide?",
+      "answer": "Neat Board 50 features a 4K capacitive touch display. It supports active pen input, enabling precise whiteboarding, annotation, and collaboration directly on the screen.",
+      "tags": [
+        "Neat Board 50",
+        "display",
+        "touch"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-50-camera-and-framing",
+      "question": "What camera and framing features are available on Neat Board 50?",
+      "answer": "Neat Board 50 includes a 50 megapixel camera sensor with a 113 degree field of view. It supports adaptive group framing, dynamic individual framing, and dynamic speaker focus to keep participants clearly visible during meetings.",
+      "tags": [
+        "Neat Board 50",
+        "camera",
+        "framing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-50-audio-and-microphones",
+      "question": "What audio and microphone capabilities does Neat Board 50 have?",
+      "answer": "Neat Board 50 includes a five microphone array with sensor microphones. It supports beamforming and voice tracking for accurate voice pickup. Audio output is delivered through a mono speaker system with dual opposite firing drivers and dual passive radiators.",
+      "tags": [
+        "Neat Board 50",
+        "audio",
+        "microphones"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-50-byod-and-screen-sharing",
+      "question": "How do BYOD mode and screen sharing work on Neat Board 50?",
+      "answer": "Neat Board 50 supports BYOD mode using a single USB-C cable with power delivery. Screen sharing is supported via HDMI or USB-C. A second display can be connected using the HDMI output.",
+      "tags": [
+        "Neat Board 50",
+        "BYOD",
+        "screen sharing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-50-mounting-accessories-and-platform",
+      "question": "What mounting options, accessories, and platform features are available on Neat Board 50?",
+      "answer": "Neat Board 50 supports fixed and adaptive height mounts, table stands, wall mounts, adaptive mounts, and adaptive stands. It runs on the Generation 2 platform, supports Neat Center expansion speakers, and includes an active marker with a pressure sensitive tip and eraser.",
+      "tags": [
+        "Neat Board 50",
+        "mounting",
+        "platform",
+        "Neat Center"
+      ],
+      "updated_at": "2026-01-15"
+    },
+
+    {
+      "id": "neat-board-32-room-size-and-reach",
+      "question": "What spaces and collaboration reach is Neat Board 32 designed for?",
+      "answer": "Neat Board 32 is designed for focus spaces and personal desks. It supports effective collaboration with a recommended reach of up to 7 feet or 2 meters.",
+      "tags": [
+        "Neat Board 32"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-32-display-and-touch",
+      "question": "What display and touch capabilities does Neat Board 32 provide?",
+      "answer": "Neat Board 32 features a 4K capacitive touch display and supports active pen input for whiteboarding and annotation. The active marker is sold separately.",
+      "tags": [
+        "Neat Board 32",
+        "display",
+        "touch"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-32-camera-and-framing",
+      "question": "What camera and framing features are available on Neat Board 32?",
+      "answer": "Neat Board 32 features a 4K horizontal field of view camera with a 140 degree field of view. It supports adaptive group framing and dynamic individual framing to keep participants visible in focus spaces.",
+      "tags": [
+        "Neat Board 32",
+        "camera",
+        "framing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-32-audio-and-microphones",
+      "question": "What audio and microphone capabilities does Neat Board 32 have?",
+      "answer": "Neat Board 32 includes four beamforming microphones with wide angle audio pickup. Audio output is provided by a full range driver with dual passive radiators, delivering clear sound for personal and focus spaces.",
+      "tags": [
+        "Neat Board 32",
+        "audio",
+        "microphones"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-32-byod-and-screen-sharing",
+      "question": "How do BYOD mode and screen sharing work on Neat Board 32?",
+      "answer": "Neat Board 32 supports BYOD mode using a single USB-C cable with power delivery. Screen sharing is supported via HDMI or USB-C. A second display can be connected using the HDMI output.",
+      "tags": [
+        "Neat Board 32",
+        "BYOD",
+        "screen sharing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-32-mounting-accessories-and-platform",
+      "question": "What mounting options, accessories, and platform features are available on Neat Board 32?",
+      "answer": "Neat Board 32 supports fixed and adaptive height mounts, table stands, wall mounts, adaptive table stands, adaptive table clamps, and an integrated VESA interface. It runs on the Generation 2 platform and supports Neat Center expansion speakers.",
+      "tags": [
+        "Neat Board 32",
+        "mounting",
+        "platform",
+        "Neat Center"
+      ],
+      "updated_at": "2026-01-15"
+    },
+
+    {
+      "id": "neat-board-pro-room-size-and-reach",
+      "question": "What room sizes and collaboration reach is Neat Board Pro designed for?",
+      "answer": "Neat Board Pro is designed for small, medium, and large meeting spaces. It supports effective collaboration with a recommended reach of up to 33 feet or 10 meters.",
+      "tags": [
+        "Neat Board Pro"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-pro-display-and-touch",
+      "question": "What display and touch capabilities does Neat Board Pro provide?",
+      "answer": "Neat Board Pro features a 4K capacitive touch display and supports active pen input for whiteboarding and annotation.",
+      "tags": [
+        "Neat Board Pro",
+        "display",
+        "touch"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-pro-camera-and-framing",
+      "question": "What camera and framing features are available on Neat Board Pro?",
+      "answer": "Neat Board Pro uses a dual camera system with two 50 megapixel sensors and a field of view ranging from 70 degrees to 113 degrees. It supports adaptive group framing, dynamic individual framing, and dynamic speaker focus.",
+      "tags": [
+        "Neat Board Pro",
+        "camera",
+        "framing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-pro-audio-and-microphones",
+      "question": "What audio and microphone capabilities does Neat Board Pro have?",
+      "answer": "Neat Board Pro includes a five microphone array with tracking and sensor microphones. It supports beamforming and voice tracking. Audio output is delivered through a three channel directional speaker system with dual opposite firing drivers and dual bass reflex woofers.",
+      "tags": [
+        "Neat Board Pro",
+        "audio",
+        "microphones"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-pro-byod-and-screen-sharing",
+      "question": "How do BYOD mode and screen sharing work on Neat Board Pro?",
+      "answer": "Neat Board Pro supports BYOD mode using a single USB-C cable with power delivery. Screen sharing is supported via HDMI or USB-C. A second display can be connected using the HDMI output.",
+      "tags": [
+        "Neat Board Pro",
+        "BYOD",
+        "screen sharing"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-pro-mounting-accessories-and-platform",
+      "question": "What mounting options, accessories, and platform features are available on Neat Board Pro?",
+      "answer": "Neat Board Pro supports fixed and adaptive height mounts, table stands, wall mounts, adaptive mounts, and adaptive stands. It runs on the Generation 2 platform, supports Neat Center expansion speakers, and runs Zoom, Microsoft Teams, or other supported applications.",
+      "tags": [
+        "Neat Board Pro",
+        "mounting",
+        "platform",
+        "Neat Center"
+      ],
+      "updated_at": "2026-01-15"
+    },
+
+    {
+      "id": "neat-board-eos-product-status",
+      "question": "Is Neat Board still available for purchase?",
+      "answer": "Neat Board is End of Sale (EOS) and is no longer available for new purchases. It is not End of Life (EOL), and existing devices continue to be supported in accordance with Neat’s support policies.",
+      "tags": [
+        "Neat Board",
+        "EOS"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-display-and-touch",
+      "question": "What display and touch capabilities does Neat Board provide?",
+      "answer": "Neat Board features a 65 inch capacitive multi touch LED display with Ultra HD 4K resolution at 3840 by 2160 and a 16:9 aspect ratio. The screen includes anti glare and anti fingerprint coatings for improved visibility and usability.",
+      "tags": [
+        "Neat Board",
+        "display",
+        "touch"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-video-and-camera",
+      "question": "What video and camera features are available on Neat Board?",
+      "answer": "Neat Board uses a 12 megapixel camera with a fixed lens and infinite focus. It provides a 120 degree horizontal field of view and supports automatic people framing. Additional video features include distortion correction, noise reduction, chromatic aberration correction, automatic white balance, and color correction. Digital zoom up to 4x is supported, with an optional 8x digital zoom.",
+      "tags": [
+        "Neat Board",
+        "camera",
+        "video"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-audio-capabilities",
+      "question": "What audio and microphone capabilities does Neat Board have?",
+      "answer": "Neat Board includes a speaker box designed for maximum tonal range with minimal distortion. It uses opposing drivers for vibration cancellation and a dedicated wide angle ultrasonic tweeter. Audio capture includes three sensor microphones and five beamforming microphones arranged in an end fire array. It supports hardware accelerated audio processing, echo cancellation, noise suppression, automatic gain control, and dereverberation.",
+      "tags": [
+        "Neat Board",
+        "audio",
+        "microphones",
+        "speakers"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-byod-and-platform-support",
+      "question": "What platforms and BYOD options are supported on Neat Board?",
+      "answer": "Neat Board provides native support for Zoom Rooms and Microsoft Teams Rooms on Android. BYOD mode is supported via USB passthrough using USB-C. Optional Neat Pad devices can be used as a controller or as a scheduling display.",
+      "tags": [
+        "Neat Board",
+        "BYOD",
+        "Zoom",
+        "Microsoft Teams"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-sensors-and-environment",
+      "question": "What sensors and environmental features are included in Neat Board?",
+      "answer": "Neat Board includes built in sensors for temperature, humidity, carbon dioxide, and volatile organic compounds. It also features a camera LED, system LED, and an ambient light sensor to support system awareness and user feedback.",
+      "tags": [
+        "Neat Board",
+        "sensors",
+        "environment"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-power-and-environmental-requirements",
+      "question": "What are the electrical and environmental requirements for Neat Board?",
+      "answer": "Neat Board operates on 100 to 240 volts at 50 or 60 hertz with a maximum current of 2.5 amps and includes a built in power supply. Supported operating temperatures range from 32 to 95 degrees Fahrenheit or 0 to 35 degrees Celsius. Storage temperatures range from minus 4 to 140 degrees Fahrenheit or minus 20 to 60 degrees Celsius. Supported relative humidity ranges from 10 to 90 percent.",
+      "tags": [
+        "Neat Board",
+        "power",
+        "environment"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-power-consumption",
+      "question": "What is the power consumption of Neat Board?",
+      "answer": "Neat Board consumes approximately 92 watts when idle, 16.5 watts when idle with the screen off, and between 152 and 154 watts while in an active call.",
+      "tags": [
+        "Neat Board",
+        "power consumption"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-networking-and-ports",
+      "question": "What networking options and ports are available on Neat Board?",
+      "answer": "Neat Board supports wired Ethernet and WiFi connectivity. Bluetooth is available for proximity join in Microsoft Teams. Available ports include USB-C for BYOD USB passthrough, HDMI input for content sharing at 1080p in Zoom or Microsoft Teams, and an additional HDMI input supporting 4K resolution.",
+      "tags": [
+        "Neat Board",
+        "networking",
+        "ports"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-board-size-and-weight",
+      "question": "What are the size and weight options for Neat Board?",
+      "answer": "With the table stand, Neat Board measures 58.1 inches wide, 39.5 inches high, and 13.8 inches deep, with a weight of 102.6 pounds or 46.5 kilograms. With the optional wall mount, it measures 58.1 inches wide, 37 inches high, and 4.1 inches deep, with a weight of 111.6 pounds or 50.6 kilograms. With the optional floor stand, it measures 58.1 inches wide, 71.65 inches high, and 34.98 inches deep, with a weight of 124.6 pounds or 56.5 kilograms.",
+      "tags": [
+        "Neat Board",
+        "dimensions",
+        "weight",
+        "mounting"
+      ],
+      "updated_at": "2026-01-15"
+    },
+
+    {
+      "id": "neat-pad-overview",
+      "question": "What is Neat Pad and what is it used for?",
+      "answer": "Neat Pad is a dedicated touch control for meetings that also functions as a room availability display. It allows users to control meetings, view room status, and interact with supported video conferencing platforms.",
+      "tags": [
+        "Neat Pad"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-display-and-sensors",
+      "question": "What display and sensor features does Neat Pad provide?",
+      "answer": "Neat Pad features an 8 inch diagonal touch screen with a resolution of 1280 by 800 and a 16:10 aspect ratio. The display includes anti glare and anti smudge coatings. It also includes an ambient light sensor, side LED indicators, an accelerometer, and sensors for temperature, humidity, carbon dioxide, and volatile organic compounds. Some sensor based features are not yet supported by Microsoft Teams.",
+      "tags": [
+        "Neat Pad",
+        "display",
+        "sensors"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-platform-support",
+      "question": "Which platforms are supported on Neat Pad?",
+      "answer": "Neat Pad provides native support for Zoom Rooms and Microsoft Teams Rooms on Android. Feature availability may vary depending on the selected platform.",
+      "tags": [
+        "Neat Pad",
+        "Zoom",
+        "Microsoft Teams"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-audio-capabilities",
+      "question": "What audio capabilities does Neat Pad have?",
+      "answer": "Neat Pad includes two microphones and speakers designed for ultrasound functionality.",
+      "tags": [
+        "Neat Pad",
+        "audio"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-mounting-and-security",
+      "question": "What mounting and security options are available for Neat Pad?",
+      "answer": "Neat Pad supports wall mounting and side mounting options. It also includes a security lock slot that is compatible with Kensington locks.",
+      "tags": [
+        "Neat Pad",
+        "mounting",
+        "security"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-power-and-environment",
+      "question": "What are the power and environmental requirements for Neat Pad?",
+      "answer": "Neat Pad operates using Power over Ethernet with support for 802.3af PoE. It requires 56 volts at 0.275 amps. Supported operating temperatures range from 32 to 95 degrees Fahrenheit or 0 to 35 degrees Celsius. Storage temperatures range from minus 4 to 140 degrees Fahrenheit or minus 20 to 60 degrees Celsius. Supported relative humidity ranges from 10 to 90 percent.",
+      "tags": [
+        "Neat Pad",
+        "power",
+        "environment"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-power-consumption",
+      "question": "What is the power consumption of Neat Pad?",
+      "answer": "Neat Pad consumes approximately 5.6 watts when idle, 3.8 watts when idle with the screen off, and 5.6 watts while in an active call.",
+      "tags": [
+        "Neat Pad",
+        "power consumption"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-networking-and-ports",
+      "question": "What networking options and ports are available on Neat Pad?",
+      "answer": "Neat Pad supports WiFi and wired Ethernet connectivity, including Power over Ethernet. A USB-C port is present and reserved for future use. An optional AC power adapter can be used instead of PoE.",
+      "tags": [
+        "Neat Pad",
+        "networking",
+        "ports"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-size-and-weight",
+      "question": "What are the size and weight specifications of Neat Pad?",
+      "answer": "Neat Pad measures 7.8 inches wide, 1.7 inches high, and 5 inches deep, with a weight of 1.15 pounds or 520 grams.",
+      "tags": [
+        "Neat Pad",
+        "dimensions",
+        "weight"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-in-the-box",
+      "question": "What is included in the box with Neat Pad?",
+      "answer": "The Neat Pad package includes the Neat Pad device, two Ethernet cables measuring 9.8 feet and 16.4 feet, a PoE power adapter, a mount adapter with side mount and wall mount, four M4 screws for the mount adapter, three M4 screws for the side mount, a 2 millimeter hex wrench, and a 2.5 millimeter hex wrench.",
+      "tags": [
+        "Neat Pad",
+        "in the box"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-installation-requirements",
+      "question": "What is required to install and use Neat Pad?",
+      "answer": "To install and use Neat Pad, an active internet connection is required.",
+      "tags": [
+        "Neat Pad",
+        "installation"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-pad-box-dimensions-and-weight",
+      "question": "What are the box dimensions and shipping weight for Neat Pad?",
+      "answer": "The packaged Neat Pad has a shipping weight of approximately 5.3 pounds or 2.4 kilograms.",
+      "tags": [
+        "Neat Pad",
+        "shipping"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-overview",
+      "question": "What is Neat Center and what does it do?",
+      "answer": "Neat Center is a companion device that helps frame people in the meeting room face-on. It is designed to improve meeting equity by helping remote participants clearly see and hear everyone in the room.",
+      "tags": [
+        "Neat Center"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-compatibility-and-requirements",
+      "question": "What do I need in order to use Neat Center?",
+      "answer": "To use Neat Center, you need a main Neat device and an active Zoom Rooms or Microsoft Teams license for that room. You also need an internet connection. Neat Center is used as a companion device and is not intended to be used on its own.",
+      "tags": [
+        "Neat Center",
+        "requirements",
+        "Zoom",
+        "Microsoft Teams"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-cameras-and-coverage",
+      "question": "How many cameras does Neat Center have and what is the viewing coverage?",
+      "answer": "Neat Center includes three cameras that provide a 360 degree view. Each camera is 8 megapixels with a 162 degree horizontal field of view and an f/2.4 aperture.",
+      "tags": [
+        "Neat Center",
+        "camera",
+        "video"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-video-framing-and-range",
+      "question": "What video framing features and range does Neat Center support?",
+      "answer": "Neat Center supports automatic people framing with adaptive digital zoom up to 4x. The effective range for automatic framing is up to 16.4 feet or 5 meters, depending on the room characteristics. People video resolution is up to 1080p at 30 frames per second.",
+      "tags": [
+        "Neat Center",
+        "framing",
+        "video"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-audio-microphones-and-range",
+      "question": "How many microphones does Neat Center have and what is the pickup range?",
+      "answer": "Neat Center includes 16 microphones in a beamforming array. It supports 360 degree audio pickup with an effective range of up to 16.5 feet or 5 meters, depending on the room characteristics.",
+      "tags": [
+        "Neat Center",
+        "microphones",
+        "audio"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-audio-processing-features",
+      "question": "What audio processing features are available on Neat Center?",
+      "answer": "Neat Center supports hardware accelerated audio processing, including echo cancellation, noise suppression, automatic gain control, and dereverberation.",
+      "tags": [
+        "Neat Center",
+        "audio",
+        "noise suppression",
+        "echo cancellation"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-video-processing-features",
+      "question": "What video processing features are available on Neat Center?",
+      "answer": "Neat Center supports hardware accelerated video encoding and includes distortion correction, noise reduction, and automatic white balance and color correction.",
+      "tags": [
+        "Neat Center",
+        "video",
+        "camera"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-general-features",
+      "question": "What general hardware features are included on Neat Center?",
+      "answer": "Neat Center includes an LED ring status indicator, a Kensington compatible security lock slot, an orientation sensor (accelerometer), flexible mounting options, and a tripod mount compatible with 1/4-20 UNC threads.",
+      "tags": [
+        "Neat Center",
+        "mounting",
+        "security"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-networking-and-ports",
+      "question": "What networking options and ports are available on Neat Center?",
+      "answer": "Neat Center supports PoE over Ethernet for networking and power. WiFi is listed for future use. A USB-C port is present for debug use only.",
+      "tags": [
+        "Neat Center",
+        "networking",
+        "ports",
+        "PoE"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-power-consumption",
+      "question": "What is the power consumption of Neat Center?",
+      "answer": "Neat Center power consumption is approximately 2 watts when idle and 6 to 9 watts while in a call.",
+      "tags": [
+        "Neat Center",
+        "power consumption"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-environmental-requirements",
+      "question": "What are the environmental requirements for Neat Center?",
+      "answer": "Neat Center supports an ambient operating temperature range of 32 to 95 degrees Fahrenheit or 0 to 35 degrees Celsius. Storage temperatures range from minus 4 to 140 degrees Fahrenheit or minus 20 to 60 degrees Celsius. Supported relative humidity ranges from 10 to 90 percent.",
+      "tags": [
+        "Neat Center",
+        "environment"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-dimensions-and-weight",
+      "question": "What are the dimensions and weight of Neat Center?",
+      "answer": "Neat Center measures 11.7 inches high, 3.3 inches wide, and 3.3 inches deep, with a weight of 3.24 pounds or 1.47 kilograms.",
+      "tags": [
+        "Neat Center",
+        "dimensions",
+        "weight"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-in-the-box",
+      "question": "What is included in the box with Neat Center?",
+      "answer": "The Neat Center package includes the Neat Center device, an Ethernet cable measuring 9.8 feet or 3 meters, a ceiling mount, and a table mount.",
+      "tags": [
+        "Neat Center",
+        "in the box"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-optional-extras",
+      "question": "What optional accessories are available for Neat Center?",
+      "answer": "Optional accessories for Neat Center include a PoE adapter, an Ethernet cable measuring 16.4 feet or 5 meters, and a PoE power adapter.",
+      "tags": [
+        "Neat Center",
+        "accessories",
+        "PoE"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-poe-requirements",
+      "question": "What PoE requirements does Neat Center have?",
+      "answer": "If you are using an alternative PoE source, it must be compliant with IEEE 802.3af Class 0 and support Mode A and Mode B.",
+      "tags": [
+        "Neat Center",
+        "PoE",
+        "power"
+      ],
+      "updated_at": "2026-01-15"
+    },
+    {
+      "id": "neat-center-box-weight",
+      "question": "What is the shipping weight of Neat Center?",
+      "answer": "The packaged Neat Center has a shipping weight of approximately 4.9 pounds or 2.24 kilograms.",
+      "tags": [
+        "Neat Center",
+        "shipping"
+      ],
+      "updated_at": "2026-01-15"
     }
+
   ]
 }
